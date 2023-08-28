@@ -52,8 +52,8 @@ To get a local copy up and running, follow these steps.
 2.Open your browser and go to http://localhost:3000 to see the app in action.
 
 ## Technologies Used
-**-Next.js**
-**-Tailwind CSS**
-**-Firebase**
-**-React Query**
+-Next.js
+-Tailwind CSS
+-Firebase
+-React Query
 
