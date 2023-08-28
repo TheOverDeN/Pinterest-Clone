@@ -38,10 +38,12 @@ To get a local copy up and running, follow these steps.
    git clone https://github.com/your-username/pinterest-clone-nextjs.git
 
 2. Navigate to the project directory
+   ```sh
    cd pinterest-clone-nextjs
 
-3. Install dependencies
-  npm install
+4. Install dependencies
+   ```sh
+   npm install
 
 ## Usage
 1. Start the development server
