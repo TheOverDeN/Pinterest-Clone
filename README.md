@@ -54,7 +54,10 @@ To get a local copy up and running, follow these steps.
 ## Technologies Used
 
 +Next.js
+
 +Tailwind CSS
+
 +Firebase
+
 +React Query
 
